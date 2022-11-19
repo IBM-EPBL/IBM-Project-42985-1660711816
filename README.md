@@ -51,6 +51,6 @@ Team Id : PNT2022TMID47149
 For support, please reach out to us at emailD daarthi2002@gmail.com # baviraja2002@gmail.com
 
 ![Logo](https://media1.giphy.com/media/l3q2FnW3yZRJVZH2g/giphy.gif?cid=790b7611df04fcf78be01764e6121ed07c106223750aabd6&rid=giphy.gif&ct=g)
-![Logo](https://www.google.com/search?q=thank+you+gif&rlz=1C1CHBD_enIN974IN982&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjfl4St17n7AhXA3jgGHfFCDY8Q_AUoAXoECAIQAw&biw=1366&bih=667&dpr=1#imgrc=eghHXxIoBXMrDM)
+
 
 **********|**| 🎓 MRK INSTITUTE OF TECHNOLOGY |**|**********
