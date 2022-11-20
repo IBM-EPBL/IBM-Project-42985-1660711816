@@ -16,6 +16,12 @@ This parameter helps hospitals to identify patients of high LOS-risk (patients w
 
 Suppose you have been hired as Data Scientist of Health Man – a not for profit organization dedicated to manage the functioning of Hospitals in a professional and optimal manner.
 
+<h2>💻Technical Architecture:</h2>
+
+
+<img src="https://user-images.githubusercontent.com/92677078/190690057-16763bfc-b141-4e2a-a17f-97031ec6ccb4.png">
+
+
 ## 💻 Tech Stack
 
  - [Data Analysis with Python](https://en.wikipedia.org/wiki/Data_analysis)
