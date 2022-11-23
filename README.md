@@ -3,7 +3,10 @@
           
  <h3 align="center">TEAM ID : PNT2022TMID47149</h3>
 
- <h3 align="center">Video Link : https://user-images.githubusercontent.com/115279773/203523730-5995e2dc-180d-4bb9-8e9c-fd48146a65e7.mp4
+ <h3 align="center">VIDEO LINK : https://user-images.githubusercontent.com/115279773/203582432-60b9b10d-4067-47a8-820d-9d6848284c94.mp4
+ <h3 align="center">YOUTUBE VIDEO LINK : https://youtu.be/_xO5AqCSOX4
+
+
 
 ## **Analytics for Hospitals' Health-Care Data**
 ![Logo](https://cdn.dribbble.com/users/345283/screenshots/1566266/dribble-1.gif) 
